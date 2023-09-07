@@ -1,7 +1,6 @@
 ### 👋 반갑습니다!
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=[https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://abrupt-flamingo-e92.notion.site/Jiseok-Choi-272dbfbfa6404265b866bc7bd92325fb)
-
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=[https://abrupt-flamingo-e92.notion.site/Jiseok-Choi-272dbfbfa6404265b866bc7bd92325fb)](https://abrupt-flamingo-e92.notion.site/Jiseok-Choi-272dbfbfa6404265b866bc7bd92325fb)]
 
 
 
