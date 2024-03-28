@@ -2,7 +2,7 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=[https://abrupt-flamingo-e92.notion.site/Jiseok-Choi-272dbfbfa6404265b866bc7bd92325fb)(https://abrupt-flamingo-e92.notion.site/Jiseok-Choi-272dbfbfa6404265b866bc7bd92325fb)]
 
-
+<!--
 * 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
 * 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
 * 😎 나만의 일을 찾기위해 열심히 노력중입니다.
